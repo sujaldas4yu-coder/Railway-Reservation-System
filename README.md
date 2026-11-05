@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
+# Reg No: 212225220107
+# Name: SUJAL DAS
 # Date:
 
 
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1903" height="1132" alt="Screenshot 2026-10-21 112721" src="https://github.com/user-attachments/assets/571fa000-ecb4-4b29-83b2-e49a0132f0c6" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1920" height="1200" alt="Screenshot 2026-11-04 140128" src="https://github.com/user-attachments/assets/028695d7-5cb4-40df-9c78-97b447c22ac6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+<img width="1920" height="1200" alt="Screenshot 2026-10-30 143300" src="https://github.com/user-attachments/assets/2fd16bb9-c843-4f68-9378-a7a6c115ce64" />
 
 
 
@@ -79,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1920" height="1200" alt="Screenshot 2026-11-04 143111" src="https://github.com/user-attachments/assets/3fa55a83-44b9-432e-8f4e-385c0978193b" />
 
 
 
@@ -97,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1920" height="1140" alt="Screenshot 2026-10-23 140930" src="https://github.com/user-attachments/assets/95670ede-8684-4a59-97eb-a7ff15fa719a" />
 
 
 
@@ -119,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1920" height="1200" alt="Screenshot 2026-11-04 143413" src="https://github.com/user-attachments/assets/262fdabb-e8a7-444e-9bbd-2d03b90be2fe" />
 
 
 
